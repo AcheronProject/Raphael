@@ -1,302 +1,414 @@
-70706819513105
-acheron_Connectors
-Korean-Hroparts_ U-F-M5DD-W-2
-USB mini-B connector with THT mounting and SMD pins
+97062999233658
+acheron_Components
+ACM2012-2P
+
 
 0
-9
-6
-acheron_Connectors
-PinHeader_1x2_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+4
+4
+acheron_Components
+CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
+Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
 0
 2
 2
-acheron_Connectors
-PinHeader_1x3_staggered_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+acheron_Components
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
-3
-3
-acheron_Connectors
-PinHeader_1x4_P2.54mm_Angled
+2
+2
+acheron_Components
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+acheron_Components
+Crystal_SMD_0603-2Pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+acheron_Components
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+acheron_Components
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+acheron_Components
+Crystal_SMD_5032-2Pin
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+acheron_Components
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+acheron_Components
+Crystal_SMD_5032-4Pin
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+acheron_Components
+Crystal_SMD_5032-4Pin-HandSolder
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+acheron_Components
+Crystal_SMD_5032-4Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+acheron_Components
+DHNF-02-V
 
 
 0
 4
 4
-acheron_Connectors
-PinHeader_1x4_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+acheron_Components
+D_DO-35_SOD27_P7.62mm
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+acheron_Components
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+acheron_Components
+D_SOD-123_Bidirectional
+SOD-123
+SOD-123
+0
+2
+2
+acheron_Components
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+acheron_Components
+D_THT_7.62mm
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+acheron_Components
+D_THT_7.62mm_SOD-123
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
 0
 4
-4
-acheron_Connectors
-PinHeader_1x5_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-5
-5
-acheron_Connectors
-PinHeader_1x6_P2.54mm_Angled
+2
+acheron_Components
+E6C1209RGB
 
 
 0
-6
-6
-acheron_Connectors
-PinHeader_1x6_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+4
+4
+acheron_Components
+EXC14CG-CE
+
+
 0
-6
-6
-acheron_Connectors
-PinHeader_1x7_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+4
+4
+acheron_Components
+Fuse_1812_4532
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
 0
-7
-7
-acheron_Connectors
-PinHeader_1x8_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+2
+2
+acheron_Components
+HH-SMD6028RGBC-CA_reverse_mounted_6028_2.8x3.5mm
+
+
 0
-8
-8
-acheron_Connectors
-PinHeader_1x9_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
+4
+4
+acheron_Components
+LED_RGB_SMD_6028_2.8x3.5mm
+
+
 0
+4
+4
+acheron_Components
+LED_RGB_SMD_6028_2.8x3.5mm_Round
+
+
+0
+4
+4
+acheron_Components
+LED_RGB_SMD_6028_2.8x3.5mm_Square
+Reverse-mounted 6028 RGB LED
+
+0
+4
+4
+acheron_Components
+LED_SMD_0805
+
+
+0
+2
+2
+acheron_Components
+LED_THT_2.54mm
+
+
+0
+4
+2
+acheron_Components
+LED_WS2812B-Mini_3.5x3.5mm
+https://e-neon.ru/catalog_files/pdf2/ws2812b-mini(3535)%20datasheet-v1.0.pdf
+RGB LED with integrated controller, 3535 package
+0
+4
+4
+acheron_Components
+LED_WS2812B_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+acheron_Components
+LED_WS2812_2020
+
+
+0
+4
+4
+acheron_Components
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+acheron_Components
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+acheron_Components
+MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
+MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
+SSOP 0.65
+0
+13
 9
-9
-acheron_Connectors
-PinHeader_1x10_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
-PinHeader_1x12_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-12
-12
-acheron_Connectors
-PinHeader_1x14_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-14
-14
-acheron_Connectors
-PinHeader_1x16_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-16
-16
-acheron_Connectors
-PinHeader_1x19_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-19
-19
-acheron_Connectors
-PinHeader_1x20_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-20
-20
-acheron_Connectors
-PinHeader_2x3_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
-acheron_Connectors
-PinHeader_2x3_P2.54mm_Vertical_Staggered
-Through hole straight pin header, 2x3, 2.54mm pitch, single row, staggered
-
-0
-6
-6
-acheron_Connectors
-PinHeader_2x4_P2.54mm_Vertical_Staggered
-Through hole straight pin header, 2x4, 2.54mm pitch, staggered
-
-0
-8
-8
-acheron_Connectors
-PinHeader_2x5_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
-PinHeader_2x5_P2.54mm_Vertical_Staggered
-Through hole straight pin header, 2x5, 2.54mm pitch, staggered
-
-0
-10
-10
-acheron_Connectors
-PinHeader_2x7_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-14
-14
-acheron_Connectors
-PinHeader_2x8_P2.54mm_Vertical
-Through hole straight pin header, 2x8, 2.54mm pitch, dual row
-Through hole pin header THT 1x14 2.54mm single row
-0
-16
-16
-acheron_Connectors
-PinHeader_2x10_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-20
-20
-acheron_Connectors
-PinHeader_3x4_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-12
-12
-acheron_Connectors
-PinHeader_3x5_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-15
-15
-acheron_Connectors
-SM04B-SRSS-TB(LF)(SN)
-
-
-0
-6
-6
-acheron_Connectors
-SM04B-SRSS-TB(LF)(SN)_mounting-reliefs
-
-
-0
-20
-5
-acheron_Connectors
-SM05B-SRSS
-
-
-0
-7
-6
-acheron_Connectors
-SM05B-SRSS_MountingPin
-
-
+acheron_Components
+QFN-16-1EP_3x3mm_P0.5mm_EP1.9x1.9mm
+QFN, 16 Pin (https://www.nxp.com/docs/en/package-information/98ASA00525D.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
 0
 21
+17
+acheron_Components
+QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm
+QFN, 28 Pin (http://www.issi.com/WW/pdf/31FL3731.pdf#page=21), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+33
+29
+acheron_Components
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+61
+45
+acheron_Components
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+acheron_Components
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+acheron_Components
+R_SMD_1206
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+acheron_Components
+R_THT_5.08mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+acheron_Components
+SK6812MINI_3535_6028_3.2x2.8mm_Round
+
+
+0
+4
+4
+acheron_Components
+SK6812MINI_3535_6028_3.2x2.8mm_Square
+
+
+0
+4
+4
+acheron_Components
+SOIC-8
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+acheron_Components
+SOP-8_3.76x4.96mm_P1.27mm
+SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+acheron_Components
+SOT-23-5
+6-pin SOT-23 package
+SOT-23-6
+0
+5
+5
+acheron_Components
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
 6
-acheron_Connectors
-SM11B-SRSS
-
-
-0
-13
-11
-acheron_Connectors
-SM13B-SRSS
-
-
-0
-15
-13
-acheron_Connectors
-SM14B-SRSS
-
-
-0
-16
-14
-acheron_Connectors
-SM20B-SRSS
-
-
-0
-22
-20
-acheron_Connectors
-TE_1744426-4
-
-
+6
+acheron_Components
+SOT-143
+SOT-143
+SOT-143
 0
 4
 4
-acheron_Connectors
-TE_2132415-4
-
+acheron_Components
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+acheron_Components
+SSAL220100
+SPDT 10mA @ 5VDC 5V On-On SMD toggle switch
 
 0
+5
 4
-4
-acheron_Connectors
-TYPE-C-31-M-12
+acheron_Components
+STM_UFQFPN-48-1EP_7x7mm_P0.5mm
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+48
+acheron_Components
+STM_UFQFPN-48-1EP_7x7mm_P0.5mm_HandSoldering
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+48
+acheron_Components
+STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+48
+acheron_Components
+STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering_ThermalReliefs
+QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+90
+48
+acheron_Components
+TQPF-44_10x10mm_P0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+acheron_Components
+TSSOP-8_4.4x3mm_P0.65mm
+TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+8
+8
+acheron_Components
+UDFN-8L_2x3mm_P0.5mm
 
 
 0
-16
-13
-acheron_Connectors
-TYPE-C-31-M-14
-
-
+9
+9
+acheron_Components
+UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm
+UQFN, 48 Pin (https://github.com/KiCad/kicad-symbols/pull/1189#issuecomment-449506354), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+UQFN DFN_QFN
 0
-16
-13
-acheron_Connectors
-USB3_A_Amphenol_GSB411B34HR
-USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
-USB 3.0 type A right angle
+53
+49
+acheron_Components
+USON-10_2.5x1.0mm_P0.5mm
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm Pitch 0.5mm
 0
-19
 10
-acheron_Connectors
-USB_C_Receptacle_Wurth_Elektronik_632723x00011
-USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
-USB C Type-C Receptacle Hybrid
-0
-34
-26
-acheron_Connectors
-USB_MiniB_Hirose_UX60-MB-5S8
-
-
-0
-7
-6
-acheron_Connectors
-USB_MiniB_XM7D-0512
-
-
-0
-18
-6
+10
