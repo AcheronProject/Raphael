@@ -400,7 +400,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "X602.step",
+      "step": "../release/raphael_alpha-rc1_3dmodel.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
